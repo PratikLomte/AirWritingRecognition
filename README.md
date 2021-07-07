@@ -1,5 +1,5 @@
 
-# [Air Writing Recognisition System](https://github.com/PratikLomte/AirWritingRecognisition)
+# [Air Writing Recognition System](https://github.com/PratikLomte/AirWritingRecognisition)
 ## Modern Method of Teaching &middot;
 
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-orange.svg) ![Android Studio](https://img.shields.io/badge/IDE-AndroidStudio-brightgreen.svg) ![PRs Welcome](https://img.shields.io/badge/PullRequests-welcome-pink.svg)
@@ -9,7 +9,7 @@
 
 **DESCRIPTION**
 
-## About Air Writing Recognisition System
+## About Air Writing Recognition System
 Dwell into the world of augmented reality where you can easily write and draw in your air!
 Air Writing Recognisition System is an easy way to quickly demonstrate concepts deeply as well as effectively.
 
