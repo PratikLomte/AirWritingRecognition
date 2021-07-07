@@ -2,7 +2,7 @@
 # [Air Writing Recognition System](https://github.com/PratikLomte/AirWritingRecognisition)
 ## Modern Method of Teaching &middot;
 
-![Kotlin](https://img.shields.io/badge/Language-Kotlin-orange.svg) ![Android Studio](https://img.shields.io/badge/IDE-AndroidStudio-brightgreen.svg) ![PRs Welcome](https://img.shields.io/badge/PullRequests-welcome-pink.svg)
+![Kotlin](https://img.shields.io/badge/Language-Python-orange.svg) ![Sublime Text](https://img.shields.io/badge/IDE-SublimeText-brightgreen.svg) ![PRs Welcome](https://img.shields.io/badge/PullRequests-welcome-pink.svg)
 
 
 :loudspeaker: This program was created as an solution to a problem presented in Hack-X-tronics!
