@@ -5,7 +5,7 @@
 ![Kotlin](https://img.shields.io/badge/Language-Python-orange.svg) ![Sublime Text](https://img.shields.io/badge/IDE-SublimeText-brightgreen.svg) ![PRs Welcome](https://img.shields.io/badge/PullRequests-welcome-pink.svg)
 
 
-:loudspeaker: This program was created as an solution to a problem presented in Hack-X-tronics!
+:loudspeaker: This program was created as our Mini Project for DTSP!
 
 **DESCRIPTION**
 
